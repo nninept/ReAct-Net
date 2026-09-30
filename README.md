@@ -1,4 +1,4 @@
-# ReAct-Net
+# code for my master's thesis, BatchRaCUN
 
 ## 1.Prerequisites
 ```
